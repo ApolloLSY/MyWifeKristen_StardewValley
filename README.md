@@ -1,38 +1,24 @@
-YourModRepository
+# YourModRepository
 
-|-- Picture
+## Content
 
-|   |-- 
+- **Picture**
+  - **house**
+    - house1.xnb
+      
+  - **Portraits**
+      - PortraitSpring.xnb
 
-|       |-- 
+- **Catalog**
+..
 
-|           |-- 
+- **Mods**
+  - **manifest.json**
+  - **YourModName.dll**
 
-|           |--
-
-|               
-
-|   Catalog
-
-|       |-- YourHouse.xnb
-
-|       |-- ...
-
-|   |-- ...
-
-|-- Mods
-
-|   |-- MyWifeKristen
-
-|       |-- manifest.json
-
-|       |-- MyWifeKristen.dll
-
-|       |-- ...
-
-|-- .gitignore
-
-|-- LICENSE
-
-|-- README.md
-
+## .gitignore
+..
+## LICENSE
+..
+## README.md
+..
